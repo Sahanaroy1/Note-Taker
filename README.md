@@ -24,3 +24,6 @@ https://github.com/Sahanaroy1/Note-Taker
 
 # Snippet of the Note Taker:
 <img width="1434" alt="Landing Page" src="https://github.com/Sahanaroy1/Note-Taker/assets/127791384/ed8e9e44-4e07-4331-a8b2-c756f7520d7e">
+
+
+<img width="1439" alt="Note Taker" src="https://github.com/Sahanaroy1/Note-Taker/assets/127791384/da6b9154-fafb-4168-8494-97841fb2dbfc">
