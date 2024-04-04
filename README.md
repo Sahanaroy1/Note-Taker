@@ -2,7 +2,7 @@
 
 ## User Story
 
-* As a developer this week's challenge is to work on Express.js and the frontend is already being provided. I have to build a Note Taker. Express js will help to build the backend from where it will save and retrieve note data from a JSON file.
+* As a developer this week's challenge is to work on Express.js and build a Note Taker. Express js is used as a backend to save and retrieve note data from a JSON file.
 
 * It is to help a small business owner who wants to write and save notes. It helps in organizing the thought and keep a track of the task. Delete it when not needed.
 
